@@ -12,13 +12,13 @@ variables:
   azureSubscription: 'trail-name'
   
   # Web app name
-  webAppName: 'YourLinuxApp'
+  webAppName: 'learnazure-damon'
   
   # Resource group
   resourceGroupName: 'trail'
  
   # Environment name
-  environmentName: 'YourLinuxApp'
+  environmentName: 'learnazure-damon'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
